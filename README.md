@@ -1,1 +1,2 @@
 # Mini_Project
+Divide the canvas into three by drawing a vertical line across the center and then a horizontal line that begins from the center of the vertical line and extends to the rightmost edge. Divide the left side into 8 horizontal lines, alternately coloring them red and white, beginning with white. On the right side, color the top rightmost quarter of the top half dark blue, and do the same with the bottom half.
